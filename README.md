@@ -1,7 +1,9 @@
 # Online Prediction of Extreme Conditional Quantiles via B-Spline Interpolation
 This project provides a demo implementation of EMI for the task of online extreme conditional quantile prediction, as described in our paper:
 
-Zhengpin Li, Jian Wang, and Yanxi Hou (2024+). Online Prediction of Extreme Conditional Quantiles via B-Spline Interpolation. arXiv:2311.13825.
+Zhengpin Li, Jian Wang, and Yanxi Hou (2024). Online Prediction of Extreme Conditional Quantiles via B-Spline Interpolation. arXiv:2311.13825.
+
+This paper has been accpeted by Statistics and Computing.
 
 # Requirements
 
